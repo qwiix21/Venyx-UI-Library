@@ -2879,6 +2879,4 @@ end
 		end
 	end
 
-print("dino was here :\)  |  Dino, I love Venyx <3")
-
 return library
